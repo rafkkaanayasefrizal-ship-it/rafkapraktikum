@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rafka\\uprak1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{270D0785-B394-4B06-BBFD-4D0C16D96E60}|uprak1.csproj|d:\\rafka\\uprak1\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270D0785-B394-4B06-BBFD-4D0C16D96E60}|uprak1.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270D0785-B394-4B06-BBFD-4D0C16D96E60}|uprak1.csproj|D:\\Rafka\\uprak1\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{270D0785-B394-4B06-BBFD-4D0C16D96E60}|uprak1.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270D0785-B394-4B06-BBFD-4D0C16D96E60}|uprak1.csproj|D:\\Rafka\\uprak1\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270D0785-B394-4B06-BBFD-4D0C16D96E60}|uprak1.csproj|solutionrelative:formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270D0785-B394-4B06-BBFD-4D0C16D96E60}|uprak1.csproj|D:\\Rafka\\uprak1\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{270D0785-B394-4B06-BBFD-4D0C16D96E60}|uprak1.csproj|solutionrelative:formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270D0785-B394-4B06-BBFD-4D0C16D96E60}|uprak1.csproj|D:\\Rafka\\uprak1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270D0785-B394-4B06-BBFD-4D0C16D96E60}|uprak1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270D0785-B394-4B06-BBFD-4D0C16D96E60}|uprak1.csproj|D:\\Rafka\\uprak1\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{270D0785-B394-4B06-BBFD-4D0C16D96E60}|uprak1.csproj|solutionrelative:formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formLogin.cs",
+              "DocumentMoniker": "D:\\Rafka\\uprak1\\formLogin.cs",
+              "RelativeDocumentMoniker": "formLogin.cs",
+              "ToolTip": "D:\\Rafka\\uprak1\\formLogin.cs",
+              "RelativeToolTip": "formLogin.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowGgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T06:51:02.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rafka\\uprak1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Rafka\\uprak1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T04:07:40.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formRegister.cs",
+              "DocumentMoniker": "D:\\Rafka\\uprak1\\formRegister.cs",
+              "RelativeDocumentMoniker": "formRegister.cs",
+              "ToolTip": "D:\\Rafka\\uprak1\\formRegister.cs",
+              "RelativeToolTip": "formRegister.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T03:57:36.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Rafka\\uprak1\\formLogin.cs",
+              "RelativeDocumentMoniker": "formLogin.cs",
+              "ToolTip": "D:\\Rafka\\uprak1\\formLogin.cs [Design]",
+              "RelativeToolTip": "formLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T03:17:06.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formRegister.cs [Design]",
+              "DocumentMoniker": "D:\\Rafka\\uprak1\\formRegister.cs",
+              "RelativeDocumentMoniker": "formRegister.cs",
+              "ToolTip": "D:\\Rafka\\uprak1\\formRegister.cs [Design]",
+              "RelativeToolTip": "formRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T03:15:02.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "formDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Rafka\\uprak1\\formDashboard.cs",
+              "RelativeDocumentMoniker": "formDashboard.cs",
+              "ToolTip": "D:\\Rafka\\uprak1\\formDashboard.cs [Design]",
+              "RelativeToolTip": "formDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T03:17:56.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
